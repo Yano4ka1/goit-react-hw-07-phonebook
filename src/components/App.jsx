@@ -1,4 +1,4 @@
-mport { Section } from './Section/Section';
+import { Section } from './Section/Section';
 import ContactForm from './ContactForm/ContactForm';
 import Filter from './Filter/Filter';
 import { ContactListItem } from './ContactList/ContactListItem';
